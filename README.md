@@ -1,2 +1,2 @@
 # AI
-Bilgilendirici AI
+atauni yönergeleri Bilgilendirici AI
